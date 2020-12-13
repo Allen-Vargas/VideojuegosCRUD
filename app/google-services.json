@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "616029928560",
+    "firebase_url": "https://fir-kotlincrud-2471d-default-rtdb.firebaseio.com",
+    "project_id": "fir-kotlincrud-2471d",
+    "storage_bucket": "fir-kotlincrud-2471d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616029928560:android:288d16638c7960506e48b5",
+        "android_client_info": {
+          "package_name": "com.example.firebasekotlincrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616029928560-1570bajqhtet74mjecu6c55iom6c1c64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI2Wxo9ZvE6tHHAoRXK6-bIIKvZiy3dKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616029928560-1570bajqhtet74mjecu6c55iom6c1c64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
